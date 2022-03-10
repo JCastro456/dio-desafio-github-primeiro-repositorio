@@ -1,0 +1,8 @@
+Lógica de programação
+Mas o que é exatamente lógica da programação? Lógica é a técnica utilizada para desenvolver instruções em uma sequência para atingir determinado objetivo. É a organização e planejamento de instruções, em um algoritmo, com o objetivo de tornar viável a implementação de um programa ou software.
+
+A lógica de programação nada mais é do que a organização coerente das instruções do programa para que seu objetivo seja alcançado.
+
+Esse é o grande desafio do programador: montar a estrutura do programa para ser executado pelo computador. É preciso partir do princípio que o computador não pensa da mesma forma que nós e não é inteligente para saber o que precisa ser feito, nem compreender as mensagens subjetivas. Dessa forma organizar as informações de forma clara e na ordem adequada é primordial para que a ação seja executada corretamente.
+
+http://www.flowgorithm.org/
